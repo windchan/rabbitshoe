@@ -1,0 +1,11 @@
+{
+  "name": "rabbitshoe",
+  "version": "0.0.0",
+  "description": "rabbitshoe",
+  "main": "server.js",
+  "repository": "",
+  "author": "Victor Chen",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
