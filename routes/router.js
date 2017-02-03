@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 router.get('/', function(req, res) {
-    res.send("我老婆陈梦醒是世界上最可爱的宝宝！");
+    res.send("This domain is currently for sale");
 });
 
 module.exports = router;
